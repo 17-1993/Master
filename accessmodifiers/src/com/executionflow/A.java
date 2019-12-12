@@ -2,6 +2,7 @@ package com.executionflow;
 
 public class A {
 	int n=10;
+	//constructor
 	A()
 	{
 		System.out.println("A-constructor");
